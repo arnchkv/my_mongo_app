@@ -64,3 +64,5 @@ end
 
 # Gemfile
 gem 'mongoid'
+
+gem 'devise'
